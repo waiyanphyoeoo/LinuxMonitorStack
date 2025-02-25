@@ -1,6 +1,6 @@
 # 📊 Installing Prometheus and Grafana on Ubuntu 24.04
 
-![flow](https://example.com/image.png)
+![flow](https://github.com/waiyanphyoeoo/install-grafana-prometheus-node-exporter/blob/c0d40229925465ca74fb7da9474f34fae2129195/flow.png)
 
 
 ## 📌 Table of Contents
