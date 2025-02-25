@@ -225,7 +225,7 @@ Open a web browser and navigate to `http://server-IP-or-Hostname:9090` to access
 
 ---
 
-![result](https://github.com/PHIOPHI/LinuxMonitorStack/blob/5b81c19881c79b9652367cf7d59e2fdf3019d426/Screenshot%20from%202025-02-25%2009-47-45.png)
+![result](https://github.com/waiyanphyoeoo/install-grafana-prometheus-node-exporter/blob/b07bc5588442e7ebb4bc460de8df3d0f6653bdba/result.png)
 
 ---
 
